@@ -9,7 +9,7 @@ description: Blog com dicas sobre desenvolvimento, sistemas operacionais e tecno
 keywords: desenvolvimento, sistemas operacionais, linux, java, nodejs, javascript, js
 author: Matheus Geres
 language: pt
-timezone: UTC-3
+timezone: America/Sao_Paulo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
