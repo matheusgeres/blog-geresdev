@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: John Doe
-language: en
+language: pt-BR
 timezone:
 
 # URL
@@ -73,7 +73,15 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: icarus
+
+githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
+  styles:
+  customEmojis:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
