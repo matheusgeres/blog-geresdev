@@ -9,6 +9,7 @@ tags:
   - ubuntu
   - linux mint
 ---
+{% img  /images/sdkman.png 500 "SDKMAN Logo" %}
 A instalação do Java pode ser facilitada através do SDKMAN, ele configura as variáveis de ambiente e tem
 várias versões do java.
 
