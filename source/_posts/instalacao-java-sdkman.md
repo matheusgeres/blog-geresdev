@@ -2,7 +2,12 @@
 title: Instalação do Java no Linux via SDKMAN
 date: 2019-08-21 00:30:58
 thumbnail: /images/sdkman.png
-tags: linux, java, sdkman, ubuntu, linux mint
+tags: 
+  - linux
+  - java
+  - sdkman
+  - ubuntu
+  - linux mint
 ---
 A instalação do Java pode ser facilitada através do SDKMAN, ele configura as variáveis de ambiente e tem
 várias versões do java.
