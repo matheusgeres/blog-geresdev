@@ -14,7 +14,7 @@ várias versões do java.
 
 Para instalar: https://sdkman.io/install
 Já a configuração do Java é bem simples através dos seguintes comandos.
-
+<!-- more --> 
 `$ sdk list java`
 
 ![Lista dos Javas disponíveis do SDKMAN](/images/print-sdkman-java.png)
