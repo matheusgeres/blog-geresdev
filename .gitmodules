@@ -3,4 +3,4 @@
 	url = https://github.com/ppoffice/hexo-theme-icarus.git
 [submodule "themes/next"]
 	path = themes/next
-	url = git@github.com:matheusgeres/hexo-theme-next.git
+	url = https://github.com/theme-next/hexo-theme-next.git
