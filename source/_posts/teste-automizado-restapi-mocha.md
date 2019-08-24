@@ -8,6 +8,7 @@ tags:
   - Teste
   - Teste automatizado
 ---
+![Mocha](/images/teste-automizado-restapi-mocha/mocha.png)
 
 O teste automatizado foi criado no intuito de facilitar o teste do API Rest do Hybris Carrefour, anteriormente realizado através do Postman e tendo muitos passos para o fluxo completo de uma compra. A partir do teste criado, é possível executar o fluxo com a ausência de tantos cliques. A ideia de BDD também foi seguida, no intuito de termos uma documentação de como a API Rest deve trabalhar do e-commerce do Carrefour.
 
