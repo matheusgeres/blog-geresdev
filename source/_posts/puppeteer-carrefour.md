@@ -60,7 +60,7 @@ No _place order_ temos o maior fluxo de interação com a tela, o teste clica em
 Link do repositório: https://github.com/matheusgeres/carrefour-test-chrome-headless
 Aproveita e me segue por lá no [Github](https://github.com/matheusgeres/). :wink:
 
-Demonstração em vídeo do teste automatizado executando e realizando uma compra.
+Demonstração em vídeo do teste automatizado realizando uma compra.
 <div class="video-responsive">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/dPsXPqW1gcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
