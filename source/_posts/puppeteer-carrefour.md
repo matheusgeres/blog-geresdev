@@ -22,7 +22,7 @@ Puppeteer é uma biblioteca Node que permite um acesso alto nível a API de cont
 - Testar extensões do Chrome.
 
 # O que me motivou a criar um teste automatizado no Chrome?
-Quando eu fiz o meu primeiro teste com Mocha em REST API para o Carrefour me perguntei se não era possível fazer o mesmo, porém navegando pelo site, fazendo login, selecionando produtos, digitando os dados do cartão e fechando a compra. Para a minha surpresa, tudo isso foi possível e não somente isso, dá para fazer testes automatizados bem inteligente, unindo outras ferramentas. É uma delicinha ver tudo isso funcionando! :heart_eyes:
+Quando eu fiz o meu primeiro teste com {% post_link teste-automizado-restapi-mocha "Mocha em REST API"  %} para o Carrefour me perguntei se não era possível fazer o mesmo, porém navegando pelo site, fazendo login, selecionando produtos, digitando os dados do cartão e fechando a compra. Para a minha surpresa, tudo isso foi possível e não somente isso, dá para fazer testes automatizados bem inteligente, unindo outras ferramentas. É uma delicinha ver tudo isso funcionando! :heart_eyes:
 
 # Mãos na massa!
 Parece difícil? :confounded:
