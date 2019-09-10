@@ -26,6 +26,10 @@ Você pode instalar a versão do Java que a Amazon disponibiliza ou a do Zulu, q
 
 Para instalar é super fácil, basta rodar o comando com a versão desejada da JDK.
 
-`$ sdk install java 8.0.212-zulu`
+`$ sdk install <identifier da versão desejada>`
+
+Veja um exemplo de como rodar.
+
+`$ sdk install java 8.0.222-zulu`
 
 E pronto! O Java está configurado e as variáveis de ambiente setadas! Muito massa, né? :wink:
