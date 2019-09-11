@@ -1105,3 +1105,12 @@ vendors:
 css: css
 js: js
 images: images
+
+next_nightmode:
+  enable: true
+  # FontAwesome or ForkAwesome icon in sidebar button
+  icon: lightbulb-o
+  # Text for sidebar button
+  text: Night Mode
+  # If ture, when you disable Night Mode, Hexo will show warning messages in your console.
+  reminder: false
