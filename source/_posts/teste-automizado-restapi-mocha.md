@@ -10,7 +10,7 @@ tags:
 ---
 ![Mocha](/images/teste-automizado-restapi-mocha/mocha.png)
 
-O teste automatizado foi criado no intuito de facilitar o teste do API Rest do Hybris Carrefour, anteriormente realizado através do Postman e tendo muitos passos para o fluxo completo de uma compra. A partir do teste criado, é possível executar o fluxo com a ausência de tantos cliques. A ideia de BDD também foi seguida, no intuito de termos uma documentação de como a API Rest deve trabalhar do e-commerce do Carrefour.
+O teste automatizado foi criado no intuito de facilitar o teste do API Rest do Hybris Croisement, anteriormente realizado através do Postman e tendo muitos passos para o fluxo completo de uma compra. A partir do teste criado, é possível executar o fluxo com a ausência de tantos cliques. A ideia de BDD também foi seguida, no intuito de termos uma documentação de como a API Rest deve trabalhar do e-commerce do Carrefour.
 
 Em sua arquitetura temos a seguinte combinação: _Node.JS_ com as dependências _Mocha_, _Mocha Steps_, _Mocha Logger_, _Should_, _Request_ e _Chai_.
 
@@ -18,7 +18,7 @@ Pré-requisito: **Node.JS** >= 11.0.0
 <!-- more -->
 
 
-Repositório: https://github.com/matheusgeres/carrefour-app-test-node
+Repositório: https://github.com/matheusgeres/croisement-app-test-node
 
 
 
