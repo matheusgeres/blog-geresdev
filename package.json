@@ -18,6 +18,7 @@
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^1.0.1",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^3.0.0"
+    "hexo-server": "^3.0.0",
+    "hexo-theme-butterfly": "^4.13.0"
   }
 }
