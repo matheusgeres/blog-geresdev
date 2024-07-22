@@ -68,7 +68,7 @@ omf install pyenv
 Fonte: https://github.com/oh-my-fish/plugin-pyenv
 
 
-# Configurando no Gnome Terminal como Terminal padrão
+# Configurando no Gnome Terminal como shell padrão
 ![Configurando fish como shell padrão](/images/fish-e-spaceship/gnome-terminal-comando.png)
 
 1. Vá em configurações do Gnome Terminal
