@@ -29,6 +29,7 @@ Adicione ao final do arquivo config.fish
 starship init fish | source
 ```
 Fonte: https://starship.rs/
+<!-- more -->
 
 
 # Instalando oh my fish (omf) plugin manager
